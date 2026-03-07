@@ -1,0 +1,9 @@
+PROJ01, DEV001, E-Commerce Platform, 12, 15/03/2026
+PROJ02, DEV002, CRM System, 6, 20/03/2026
+PROJ03, DEV003, Mobile Banking, 8, 18/03/2026
+PROJ04, DEV005, HR Management, 10, 15/03/2026
+PROJ05, DEV007, Embedded Control, 14, 01/04/2026
+PROJ06, DEV010, Inventory System, 5, 20/03/2026
+PROJ07, DEV002, AI Research, 12, 01/04/2026
+PROJ08, DEV003, Data Warehouse, 3, 01/05/2026
+PROJ09, DEV011, software Developer Management, 2, 15/04/2026
